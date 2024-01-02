@@ -44,9 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/23000966/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153983364/426c84dd-ae50-4ca9-a1c3-ab6fc2e9c24c)
+![image](https://github.com/23000966/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153983364/c4a9ec5b-5b42-4a11-bcba-3d7acfb5cca3)
+![image](https://github.com/23000966/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153983364/25d84514-290f-4df1-9034-f3ac13d96d81)
 
-### Name:
-### Register Number:
+### Name: SANTHOSH KUMAR R
+### Register Number: 23000966
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
